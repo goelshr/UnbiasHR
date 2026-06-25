@@ -15,7 +15,7 @@ while True:
 #EEOC - Questions that are considered illegal 
     positive_words = ["resourceful", "objective", "collaboration", "numbers", "leadership", "yourself", "experience", "goals", "skills"]
     negative_words = ["emotion", "sensitive", "provider", "balance", "children", "bossy", "retiring", "pregnant", "child", "divorced", "spouse", "accent"]
-    nuetral_words = [""]
+    nuetral_words = ["hello"]
 
 
     for i in words:
